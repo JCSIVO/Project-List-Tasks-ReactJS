@@ -1,3 +1,8 @@
+Small task project using {useReducer useContext}, in which you can: To create, Erase Filter tares
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
